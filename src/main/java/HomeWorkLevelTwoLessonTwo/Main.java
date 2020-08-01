@@ -20,7 +20,7 @@ public class Main {
             if (arr.length != 4 || arr[i].length != 4) throw new MyArraySizeException();
         }
         System.out.println("array size is ok");
-add
+
         int summ=0;
 
         for (int i = 0; i < arr.length; i++) {
